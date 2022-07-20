@@ -1,0 +1,24 @@
+{
+  "descriptions": [
+    {
+      "dataType": "func",
+      "modalityLabel": "bold",
+      "customLabels": "task-rest",
+      "criteria": {
+        "SeriesDescription": "Axial BOLD 3.5mm Resting State*"
+      },
+      "sidecarChanges": {
+        "TaskName": "rest"
+      }
+    },
+    {
+      "dataType": "anat",
+      "modalityLabel": "",
+      "customLabels": "T1w",
+      "criteria": {
+        "SeriesDescription": "T1 SAG MPRAGE grappa2*"
+      },
+      "intendedFor": 0
+    }
+  ]
+}
