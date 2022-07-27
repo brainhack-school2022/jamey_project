@@ -1,6 +1,10 @@
 
 # METHODS
 
+## BIDS conversion
+
+Raw DICOM files were collecte at the Montreal Neurological Institute and converted in NiFTY and BIDS using dcm2bids.
+
 ## Image processing
 Results included in this manuscript come from preprocessing
 performed using *fMRIPrep* 21.0.2
